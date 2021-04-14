@@ -23,6 +23,8 @@ Example Input 1
 5 4 3
 Example Output 1
 NO
+
+
 Solution:-socks.java
 
 Ques:-"Usain Bolt makes a new world record completing 100 m in 9.58 seconds".
@@ -68,4 +70,6 @@ Sample Output:
 YES
 NO
 NO
+
+
 Solution:-bolt.java
